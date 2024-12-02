@@ -24,7 +24,135 @@ body {
   -webkit-box-orient: vertical; 
   overflow: hidden; 
   text-overflow: ellipsis; /* Tambahkan "..." di ujung */
-  max-width: 830px; /* Tentukan lebar elemen */
+  max-width: 800px; /* Tentukan lebar elemen */
+}
+
+.degree {
+  position: relative;
+  top: -12px;
+  max-width: 1000px;
+  right: 50px;
+}
+
+.city {
+  position: relative;
+  top: -23px;
+  right: 50px;
+}
+
+.hard-skill-1 {
+  position: relative;
+  right: -70px;
+  max-width: 300px;
+}
+
+.hard-skill-2 {
+  position: relative;
+  right: -120px;
+  text-align: justify;
+  max-width: 300px;
+  top: -14px;
+}
+
+.hard-skill-3 {
+  position: relative;
+  right: -20px;
+  text-align: justify;
+  max-width: 300px;
+  top: -14px;
+}
+
+.hard-skill-4 {
+  position: relative;
+  right: -200px;
+  text-align: justify;
+  max-width: 300px;
+}
+
+.hard-skill-5 {
+  position: relative;
+  right: -200px;
+  text-align: justify;
+  max-width: 300px;
+}
+
+.soft-skill-1 {
+  position: relative;
+  right: -100px;
+  top: 1px;
+}
+
+.soft-skill-2 {
+  position: relative;
+  right: -110px;
+
+}
+
+.soft-skill-3 {
+  position: relative;
+  top: 2px;
+}
+
+.soft-skill-4 {
+  position: relative;
+  right: -250px;
+}
+
+.soft-skill-5 {
+  position: relative;
+  right: -250px;
+}
+
+.interest-1 {
+  position: relative;
+  right: -100px;
+}
+
+.interest-2 {
+  position: relative;
+  right: -55px;
+}
+
+.interest-3 {
+  position: relative;
+}
+
+.software-skill-1 {
+  position: relative;
+  right: -100px;
+  top: 14px;
+}
+
+.software-skill-2 {
+  position: relative;
+  right: -150px;
+}
+
+.software-skill-3 {
+  position: relative;
+  right: -30px;
+}
+
+.inter-skill-1 {
+  position: relative;
+  right: -250px;
+}
+
+.inter-skill-2 {
+  position: relative;
+  right: -200px; 
+}
+
+.inter-skill-3 {
+  position: relative;
+  top: 70px;
+  right: 180px;
+}
+
+.inter-skill-4 {
+  position: relative;
+  right: -250px;
+  top: -5px;
 }
 
 .custom-btn {
@@ -706,7 +834,7 @@ section {
 .gallery {
   position: relative;
   width: 100%;
-  top: -1800px;
+  top: -1680px;
 }
 
 .gallery .gallery-item {
@@ -764,7 +892,7 @@ section {
 
 .atas {
     position: relative;
-    top: -1750px; /* Geser ke atas sejauh 20px */
+    top: -1850px; /* Geser ke atas sejauh 20px */
     width: 100%;
     text-align: justify;
 }
@@ -834,7 +962,7 @@ section {
 .portfolio {
   width: 100%;
   position: relative;
-  top: -1750px;
+  top: -1650px;
 }
 
 .portfolio .portfolio-item {
@@ -1069,7 +1197,7 @@ section {
 .services {
   position: relative;
   width: 100%;
-  top: -1750px;
+  top: -1660px;
 }
 
 .services .icon-box {
