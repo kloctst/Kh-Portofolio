@@ -14,6 +14,12 @@
   max-width: 590px;
 }
 
+.spm {
+  position: relative;
+  top: -293px;
+  left: 120px;
+}
+
 .porto-essay {
   position: relative;
   left: 380px;
@@ -22,7 +28,7 @@
 
 .sertif-essay {
   position: relative;
-  left: 370px;
+  left: 600px;
 }
 
 body {
@@ -845,7 +851,7 @@ section {
 .gallery {
   position: relative;
   width: 100%;
-  top: -1680px;
+  top: -1950px;
 }
 
 .gallery .gallery-item {
@@ -1208,7 +1214,7 @@ section {
 .services {
   position: relative;
   width: 100%;
-  top: -1660px;
+  top: -1920px;
 }
 
 .services .icon-box {
@@ -1603,10 +1609,9 @@ a {
   color: #45505b;
   font-size: 14px;
   text-align: center;
-  padding: 30px 0;
   position: relative;
   width: 100%;
-  top: -1750px;
+  top: -1900px;
 }
 
 #footer h3 {
