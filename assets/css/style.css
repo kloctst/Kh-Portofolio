@@ -22,8 +22,13 @@
 
 .porto-essay {
   position: relative;
-  left: 380px;
-  width: 1200px;
+  left: 200px;
+  width: 1069px;
+}
+
+.dfl {
+  position: relative;
+  left: 200px;
 }
 
 .sertif-essay {
@@ -846,7 +851,13 @@ section {
 
 .smartvation {
   position: relative;
-  left: 375px;
+  left: 140px;
+}
+
+.digital {
+  position: relative;
+  left: 550px;
+  top: -293px;
 }
 
 /*--------------------------------------------------------------
@@ -856,7 +867,7 @@ section {
 .gallery {
   position: relative;
   width: 100%;
-  top: -1600px;
+  top: -1950px;
 }
 
 .gallery .gallery-item {
